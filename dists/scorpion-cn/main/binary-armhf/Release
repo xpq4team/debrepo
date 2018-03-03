@@ -1,0 +1,7 @@
+Archive: scorpion-st
+Version: 2.0
+Component: main
+Origin: xpq4team.github.io/debrepo
+Label: scorpion repository
+Architecture: armhf
+Description: xpq4 package repo

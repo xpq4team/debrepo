@@ -1,0 +1,54 @@
+Package: luna
+Installed-Size: 312
+Maintainer: q4os@q4os.org
+Architecture: i386
+Version: 1.1.1-a1
+Depends: libc6
+Provides: luna
+Conflicts: none
+Replaces: none
+Priority: extra
+Section: none
+Filename: pool/main/l/luna/luna_1.1.1-a1_i386.deb
+Size: 56134
+SHA256: 1ce0590c9e16560f1bc4ba37c396c5caafea2b9fc98ead3d13277c02cca2ee77
+SHA1: 0883aa2c46afd730cd2fddd73bcf17540ca78c68
+MD5sum: 3d70470ec8cb4537e17fcfb7062f5e90
+Description: luna for Q4OS
+
+Package: xpq4
+Installed-Size: 112864
+Maintainer: xpq4@users.sf.net
+Architecture: all
+Version: 2.1-a2
+Depends: libc6, q4os-desktop (>= 2.4), luna, twin-style-crystal-trinity, tde-style-qtcurve-trinity, kde-style-qtcurve-qt5, fonts-noto, fonts-liberation
+Provides: xpq4
+Conflicts: xpq4-free
+Replaces: none
+Priority: extra
+Section: none
+Filename: pool/main/x/xpq4/xpq4_2.1-a2_all.deb
+Size: 22923308
+SHA256: 7a802f7fd859a2d0cd5b8876d983666432dce20b6bcc654af912ed4fafb96313
+SHA1: 876c7ead988dc9ae3c7a255ebb83ecbc28191776
+MD5sum: 4e776cb84b765297d9e606b24f70810d
+Description: xpq4 for Q4OS
+
+Package: xpq4-free
+Installed-Size: 3212
+Maintainer: xpq4@users.sf.net
+Architecture: all
+Version: 2.1-a2
+Depends: libc6, q4os-desktop (>= 2.4), luna, twin-style-crystal-trinity, tde-style-qtcurve-trinity, kde-style-qtcurve-qt5, fonts-noto, fonts-liberation, q4os-nuvola-icons, q4os-paper-icons
+Provides: xpq4-free
+Conflicts: xpq4
+Replaces: none
+Priority: extra
+Section: none
+Filename: pool/main/x/xpq4-free/xpq4-free_2.1-a2_all.deb
+Size: 2481644
+SHA256: 74fdbb70c5b7c54870640f91d5af58c3312bb1e5b7cfa15a10e8e6cd66174d5d
+SHA1: bea063a562bd000a097eb85069eb2d09e5c8f00f
+MD5sum: f2856d16d2254fb22d7a5828fa48abac
+Description: xpq4-free for Q4OS
+
